@@ -2,6 +2,8 @@
 
 **Project Case: CarWonders Racing Partnerships Database**
 
+![CarWonders ERD](ERD.png)
+
 This document describes the requirements behind the accompanying `.sql` file: the business case, the entities/constraints the schema enforces, and the queries the script implements.
 
 ---
